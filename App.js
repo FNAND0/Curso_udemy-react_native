@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import { View, StyleSheet, Text } from 'react-native';
-//
+//nando e foda
 
 import {Picker} from '@react-native-picker/picker';
 
